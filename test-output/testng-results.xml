@@ -2,19 +2,23 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-20T03:56:29 EST" name="Default suite" finished-at="2022-01-20T03:56:33 EST" duration-ms="4019">
+  <suite started-at="2022-01-24T01:49:57 EST" name="Default suite" finished-at="2022-01-24T01:50:03 EST" duration-ms="5658">
     <groups>
     </groups>
-    <test started-at="2022-01-20T03:56:29 EST" name="Default test" finished-at="2022-01-20T03:56:33 EST" duration-ms="4019">
+    <test started-at="2022-01-24T01:49:57 EST" name="Default test" finished-at="2022-01-24T01:50:03 EST" duration-ms="5658">
       <class name="autoTestPackage.AutoTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:autoTestPackage.AutoTest@3cebbb30]" started-at="2022-01-20T03:56:29 EST" name="setUp" finished-at="2022-01-20T03:56:33 EST" duration-ms="3752" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:autoTestPackage.AutoTest@67f639d3]" started-at="2022-01-24T01:49:57 EST" name="setUp" finished-at="2022-01-24T01:50:02 EST" duration-ms="5057" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="autoTest()[pri:0, instance:autoTestPackage.AutoTest@3cebbb30]" started-at="2022-01-20T03:56:33 EST" name="autoTest" finished-at="2022-01-20T03:56:33 EST" duration-ms="227" status="PASS">
+        <test-method signature="autoTest()[pri:0, instance:autoTestPackage.AutoTest@67f639d3]" started-at="2022-01-24T01:50:02 EST" name="autoTest" finished-at="2022-01-24T01:50:03 EST" duration-ms="273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- autoTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:autoTestPackage.AutoTest@67f639d3]" started-at="2022-01-24T01:50:03 EST" name="tearUp" finished-at="2022-01-24T01:50:03 EST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
       </class> <!-- autoTestPackage.AutoTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
